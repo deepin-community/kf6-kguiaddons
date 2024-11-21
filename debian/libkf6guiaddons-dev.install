@@ -1,0 +1,4 @@
+usr/include/KF6/KGuiAddons/
+usr/lib/*/cmake/KF6GuiAddons/
+usr/lib/*/libKF6GuiAddons.so
+usr/lib/*/pkgconfig/KF6GuiAddons.pc
